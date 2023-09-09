@@ -9,7 +9,8 @@ Welcome to my Stage One Task project for the Zuri HNGX Internship! This Flutter 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot_image1.png)
+![Screenshot 2](screenshots/screenshot_image2.png)
 
 
 ## Setup
