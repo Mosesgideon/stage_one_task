@@ -1,17 +1,22 @@
-# stage_one_task
+# Stage One Task - Zuri HNGX Internship
 
-A new Flutter project.
+Welcome to my Stage One Task project for the Zuri HNGX Internship! This Flutter application is a simple task showcasing my Slack information and providing a button to open my GitHub profile.
 
-## Getting Started
-Create a mobile application that prominently features your Slack identity, incorporates your Slack profile picture, and includes an “Open GitHub” button. When pressed, this button should utilize a WebView component to redirect users to your GitHub profile within the application itself.
+## Features
 
-This project is a starting point for a Flutter application.
+- Display of Slack Information
+- Button to Open GitHub Profile
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](screenshots/screenshot1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Setup
+
+Follow these steps to set up and run the project on your local machine:
+
+1. *Clone the Repository:*
+
+   ```bash
+   git clone https://github.com/your-username/stage-one-task.git
